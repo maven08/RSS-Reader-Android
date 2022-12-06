@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"com.test.rss","l":"AddRssActivity"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.test.rss","l":"DetailActivity"},{"p":"com.test.rss","l":"MainActivity"},{"p":"com.test.rss","l":"WebviewActivity"}]
